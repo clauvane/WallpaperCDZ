@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AngryBirdsWallpaperProActivity!</string>
+    <string name="app_name">Kinghts of Zodiac Fan Club</string>
+    <string name="package_name">com.clauvaneandroid.wallpapercdz</string>
+    <string name="widget_text">Hello Widget!</string>  
+    <string name="bemvindos">Welcome to Kinghts of Zodiac Fan Club! What is your name?</string>
+    <string-array name="dificuldade">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Ninja</item>      
+    </string-array>
+</resources>
